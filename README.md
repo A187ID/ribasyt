@@ -1,4 +1,4 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Aris187 ID
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">                    I'm 🃏🇮🇩 AZIS 🇮🇩🃏
 <p align="center">
 <img src="https://raw.githubusercontent.com/A187ID/AR15BOT/main/temp/A187.jpg" width="230" height="230"/>
 </p>
@@ -7,10 +7,10 @@
 
 
 <p align="center">
-<a href="#"><img title="👾AR15BOT👾" src="https://img.shields.io/badge/AR15BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="🃏🇮🇩Azis🇮🇩🃏" src="https://img.shields.io/badge/🃏🇮🇩AZIS🇮🇩🃏green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/A187ID"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ARIS187 ID-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/A187ID"><img title="Author" src="https://img.shields.io/badge/AUTHOR-🃏🇮🇩AZIS🇮🇩🃏-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://www.codefactor.io/repository/github/A187ID/AR15BOT"><img title="Rating" src="https://www.codefactor.io/repository/github/A187ID/AR15BOT/badge/main"></a>
@@ -44,11 +44,11 @@ Siapin alat dan bahannya.
 > penyimpanan yang memadai
 > aplikasi whatsapp
 > aplikasi termux
-> kopi+rokok ;v
+> cari posisi nyaman;v
 ```
 
 ### CARA INSTALLNYA  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
-Script ini di modifikasi sama saya sendiri Aris187 ID.
+Script ini di modifikasi sama saya sendiri 🃏🇮🇩Azis🇮🇩🃏.
 ```bash
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
@@ -63,7 +63,7 @@ Script ini di modifikasi sama saya sendiri Aris187 ID.
 
 ## FEATURES  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29px">
 
-| AR15BOT      |                   Feature        |
+| AZIS      |                   Feature        |
 | :-----------: | :------------------------------: |
 |       ✅       | Sticker Creator                  |
 |       ✅       | Nulis                            |
@@ -103,8 +103,8 @@ Script ini di modifikasi sama saya sendiri Aris187 ID.
 Ket: Aktiv 24 jam
 
 ## DONASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
-* [`Donasi 👾AR15BOT👾`](https://saweria.co/aris187id)
-
+* [`Donasi 🃏🇮🇩Azis🇮🇩🃏 langsung ke pembuatnya`](https://saweria.co/aris187id)
+* [`Donasi 🃏🇮🇩Azis🇮🇩🃏 pulsa`](http://wa.me/6281649175378)
 
 ## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
