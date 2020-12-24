@@ -103,8 +103,8 @@ Script ini di modifikasi sama saya sendiri 🃏🇮🇩Azis🇮🇩🃏.
 Ket: Aktiv 24 jam
 
 ## DONASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
-* [`Donasi 🃏🇮🇩Azis🇮🇩🃏`](https://saweria.co/aris187id)
-
+* [`Donasi 🃏🇮🇩Azis🇮🇩🃏 langsung ke pembuatnya`](https://saweria.co/aris187id)
+* [`Donasi 🃏🇮🇩Azis🇮🇩🃏 pulsa`](http://wa.me/6281649175378)
 
 ## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
